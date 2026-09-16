@@ -460,3 +460,7 @@ Please [report it](https://github.com/Ahmed-KHI/digital-companion-core/issues) -
 ### 🌟 **Don't forget to star this repository if you found it useful!** ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Ahmed-KHI/digital-companion-core&type=Date)](https://star-history.com/#Ahmed-KHI/digital-companion-core&Date)
+
+
+Rimma
+
